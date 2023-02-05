@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Quizz_App
 //
-//  Created by Folio on 29/01/2023.
+//  Created by Fadi Salah on 29/01/2023.
 //
 
 import UIKit
